@@ -3,9 +3,7 @@
 
 <p align="center">
 📧 Email: <b>samarthjadhavsj121@gmail.com</b> | 
-<a href="https://www.linkedin.com/in/samarth-jadhav-5a401625b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-</a>
+<a href="https://www.linkedin.com/in/samarth-jadhav-5a401625b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" style="color:#0077B5; font-weight:bold; text-decoration:none;">LinkedIn</a>
 </p>
 
 ---
