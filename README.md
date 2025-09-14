@@ -36,14 +36,7 @@ Currently pursuing a Bachelor of Technology in Computer Engineering. Skilled in 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-FF6C00?style=for-the-badge&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-FF6C00?style=for-the-badge&logoColor=white) 
 
 **Web & Cloud Technologies:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -67,10 +60,5 @@ Currently pursuing a Bachelor of Technology in Computer Engineering. Skilled in 
 - **Full Stack Developer** – Simplilearn  
 - **Machine Learning** – AWS
 
----
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarthjadhavsj&show_icons=true&hide_border=true&theme=radical" alt="Samarth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthjadhavsj&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+ps://github-readme-stats.vercel.app/api/top-langs/?username=samarthjadhavsj&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
 </p>
