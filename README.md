@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Samarth A Jadhav 👋</h1>
+<h1 align="center">Hi, I'm Samarth A Jadhav </h1>
 <h3 align="center">Computer Engineering Undergraduate | Building skills in software development & AI applications</h3>
 
 <p align="center">
