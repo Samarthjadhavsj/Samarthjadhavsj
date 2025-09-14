@@ -3,7 +3,9 @@
 
 <p align="center">
 📧 Email: <b>samarthjadhavsj121@gmail.com</b> | 
-<a href="https://linkedin.com/in/samarth-jadhav" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/samarth-jadhav-5a401625b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+</a>
 </p>
 
 ---
@@ -71,6 +73,4 @@ Currently pursuing a Bachelor of Technology in Computer Engineering. Skilled in 
 - **Machine Learning** – AWS
 
 ---
-
-
 </p>
