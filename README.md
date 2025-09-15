@@ -14,12 +14,11 @@ Currently pursuing a Bachelor of Technology in Computer Engineering. Skilled in 
 
 ---
 
-### Professional Experience
-- Developed **full-stack web applications** and data-driven systems with seamless user experience.  
-- Engineered **AI-powered tools** for research automation, data processing, and intelligent decision-making.  
-- Implemented **cloud integrations, automated workflows, and robust error handling**, enhancing system reliability by up to 80%.  
-- Collaborated across technologies including Python, JavaScript, Node.js, Django, React, SQL, and cloud services to deliver high-quality software solutions.
-
+### Experience
+- Skilled in frontend development for building responsive, user-friendly interfaces.
+Experienced in backend engineering with real-time database integration and automation.
+Proficient in leveraging AI-powered solutions for intelligent assistants, data processing, and automation.
+Strong knowledge of modern frameworks and libraries for efficient, scalable application development.
 ---
 
 ### Technical Skills
