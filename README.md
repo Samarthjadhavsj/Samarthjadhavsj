@@ -15,10 +15,11 @@ Currently pursuing a Bachelor of Technology in Computer Engineering. Skilled in 
 ---
 
 ### Experience
-- Skilled in frontend development for building responsive, user-friendly interfaces.
-Experienced in backend engineering with real-time database integration and automation.
-Proficient in leveraging AI-powered solutions for intelligent assistants, data processing, and automation.
-Strong knowledge of modern frameworks and libraries for efficient, scalable application development.
+- Skilled in **frontend development**, creating responsive and user-friendly web interfaces.  
+- Experienced in **backend engineering**, focusing on real-time database integration and automation.  
+- Proficient in applying **AI-powered solutions** for intelligent assistants, structured data processing, and automation.  
+- Strong knowledge of modern **frameworks and libraries** for building efficient, scalable, and reliable applications.  
+
 ---
 
 ### Technical Skills
@@ -70,6 +71,3 @@ Strong knowledge of modern frameworks and libraries for efficient, scalable appl
 - **Machine Learning** – AWS
 
 ---
-
-
-</p>
