@@ -10,7 +10,7 @@
 
 ### About Me
 Aspiring software engineer with experience in Python, JavaScript, and full-stack development.  
-Currently pursuing a Bachelor of Technology in Computer Engineering. Skilled in building efficient code, AI applications, and web solutions using modern frameworks and tools. Motivated and detail-oriented, with a strong ability to solve problems, optimize workflows, and deliver impactful full-stack and AI-driven projects.
+Currently pursuing a Bachelor of Technology in Computer Engineering. Skilled in building efficient code, AI , and web solutions using modern frameworks and tools. Motivated and detail-oriented, with a strong ability to solve problems, optimize workflows, and deliver impactful full-stack and AI-driven projects.
 
 ---
 
